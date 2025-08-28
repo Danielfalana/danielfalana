@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![Dan](github-header-banner.png)
 <!--
 **Danielfalana/danielfalana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
