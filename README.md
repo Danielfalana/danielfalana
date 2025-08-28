@@ -1,9 +1,8 @@
 ![Dan](github-header-banner.png)
 
 ## About Me  
--  Skilled in **data cleaning & transfomation, analysis, and visualization**  
--  Tools I work with: `Python` | `SQL` | `Power BI` | `Excel` | `DAX` | `Tableau`   
--  Currently learning **cloud data tools (Azure, Snowflake, Databricks, BigQuery)**  
+-  Skilled in **data cleaning & transfomation, analysis, and visualization**    
+-  Currently mastering **cloud data tools (Azure, Snowflake, Databricks, BigQuery)**  
 -  Open to collaborating on **data projects**  
 
 ---
