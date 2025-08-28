@@ -46,6 +46,19 @@
  
 ---
 
+## 🎓 Qualifications & Certifications  
+
+![SAIT College BI: Data Analytics & Reporting](https://img.shields.io/badge/SAIT_College-BI%3A_Data_Analytics_&_Reporting-AA0000?style=for-the-badge&logo=googleclassroom&logoColor=white)  
+![Microsoft Certified: Data Analyst Associate](https://img.shields.io/badge/Microsoft-Certified_Data_Analyst-0078D4?style=for-the-badge&logo=microsoft)  
+![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)   
+![Power BI Certification](https://img.shields.io/badge/Power_BI-Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![SQL Specialist](https://img.shields.io/badge/SQL-Specialist-CC2927?style=for-the-badge&logo=databricks&logoColor=white)  
+![Google Business Intelligence](https://img.shields.io/badge/Google-Business_Intelligence-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics-34A853?style=for-the-badge&logo=googleanalytics&logoColor=white)  
+![Python Certification](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+---
+
 ## 📌 Featured Projects  
 
 ### [Operator Efficiency Dashboard (Power BI)](https://github.com/yourusername/operator-efficiency)  
