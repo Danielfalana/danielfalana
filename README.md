@@ -1,15 +1,14 @@
 ![Dan](github-header-banner.png)
 
-## 🚀 About Me  
-- 🔍 Skilled in **data cleaning, analysis, and visualization**  
-- 🛠️ Tools I work with: `Python` | `SQL` | `Power BI` | `Excel` | `DAX` | `Pandas` | `Tableau`  
-- 📊 Interested in **business intelligence, marketing analytics, and predictive modeling**  
-- 🌱 Currently learning **cloud data tools (Azure, Snowflake, BigQuery)**  
-- 🤝 Open to collaborating on **data projects & dashboards**  
+## About Me  
+-  Skilled in **data cleaning & transfomation, analysis, and visualization**  
+-  Tools I work with: `Python` | `SQL` | `Power BI` | `Excel` | `DAX` | `Tableau`   
+-  Currently learning **cloud data tools (Azure, Snowflake, Databricks, BigQuery)**  
+-  Open to collaborating on **data projects**  
 
 ---
 
-## ⚙️ Tech Stack  
+##  Tech Stack  
 
 **Languages & Querying**  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
@@ -44,38 +43,17 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
-**Data Quality & Governance**  
-✅ Data Auditing & Validation  
-✅ Cleansing & Standardization  
-✅ Governance Frameworks & Documentation  
+ 
 ---
 
 ## 📌 Featured Projects  
 
-### 📊 [Operator Efficiency Dashboard (Power BI)](https://github.com/yourusername/operator-efficiency)  
+### [Operator Efficiency Dashboard (Power BI)](https://github.com/yourusername/operator-efficiency)  
 - Analyzed operator downtime and productivity data  
 - Built a Power BI dashboard to highlight **efficiency trends**  
 - Provided insights on bottlenecks and potential process improvements  
 
----
-
-### 📈 [Sales Performance Analysis (SQL + Power BI)](https://github.com/yourusername/sales-performance)  
-- Cleaned and modeled raw sales data  
-- Developed SQL queries for KPIs (monthly sales, top products, revenue by region)  
-- Created a dynamic Power BI dashboard with drill-through capabilities  
 
 ---
-
-### 🤖 [Customer Churn Prediction (Python + ML)](https://github.com/yourusername/churn-prediction)  
-- Processed customer records with **pandas** & **scikit-learn**  
-- Built predictive model for churn with **logistic regression & random forest**  
-- Delivered insights into retention strategies  
-
----
-
-## 📬 Connect With Me  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)  
-- ✉️ Email: [your.email@example.com]  
+ 
 
