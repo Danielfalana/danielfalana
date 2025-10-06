@@ -1,9 +1,5 @@
 ![Daniel Falana – Data & BI Professional](github-header-banner.png)
 
-# 👋 Hi, I'm Daniel Falana  
-**Business Intelligence & Data Analytics Professional**  
-
----
 
 ## 🧭 About Me  
 
