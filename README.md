@@ -5,7 +5,7 @@
 
 ---
 
-## 🧭 Profile Summary  
+## 🧭 About Me  
 
 I’m a results-driven **Business Intelligence and Data Analytics Professional** with over 4 years of experience transforming complex datasets into actionable insights that empower strategic decision-making.  
 I specialize in **data modeling, ETL/ELT development, and interactive BI dashboards** using tools like **Power BI, SQL Server, and Azure Data Services**.  
