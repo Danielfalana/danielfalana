@@ -64,7 +64,7 @@ My focus is on building **data solutions that are both scalable and self-serve**
 
 ## 🚀 Featured Projects  
 
-### [📊 Operator Efficiency Dashboard (Power BI)](https://github.com/yourusername/operator-efficiency)
+### [📊 Operator Efficiency Dashboard (Power BI)](https://github.com/Danielfalana/Operator-Efficiency-Analysis)
 - Analyzed operator downtime and productivity data  
 - Built a **Power BI dashboard** showcasing efficiency metrics and trends  
 - Provided insights that identified process bottlenecks and performance improvement opportunities  
