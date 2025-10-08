@@ -74,7 +74,7 @@ My focus is on building **data solutions that are both scalable and self-serve**
 - Improved data refresh efficiency by **35%** and ensured data integrity across systems  
 - Integrated SQL Server and Power BI for seamless data visualization  
 
-### [Centralized-Analytical-Data-Platform)](https://github.com/Danielfalana/Centralized-Analytical-Data-Platform-using-Kimball-Methodology)
+### [Centralized-Analytical-Data-Platform)](https://github.com/Danielfalana/Centralized-Analytical-System-and-Data-Warehouse-for-Enterprise-Reporting-Governance)
 - **Centralized Analytics Layer:** Integrates data from multiple domains (Sales, Operations, Finance, HR) into a unified reporting environment.   
 - **Role-Based Data Marts:** Tailored analytical views for each department to ensure relevant and secure access to insights.   
 - **Data Quality & Governance:** Built-in validation rules and conformed dimensions ensuring consistency across reports.  
