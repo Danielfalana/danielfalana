@@ -74,10 +74,11 @@ My focus is on building **data solutions that are both scalable and self-serve**
 - Improved data refresh efficiency by **35%** and ensured data integrity across systems  
 - Integrated SQL Server and Power BI for seamless data visualization  
 
-### [☁️ Cloud Data Integration (Azure Data Factory)](https://github.com/yourusername/azure-data-pipeline)
-- Built a scalable **Azure Data Factory pipeline** to orchestrate data flows from multiple sources  
-- Applied **medallion architecture (Bronze, Silver, Gold)** for clean, trusted analytics data layers  
-- Enhanced data reliability and accessibility across business functions  
+### [Centralized-Analytical-Data-Platform)](https://github.com/Danielfalana/Centralized-Analytical-Data-Platform-using-Kimball-Methodology)
+- **Centralized Analytics Layer:** Integrates data from multiple domains (Sales, Operations, Finance, HR) into a unified reporting environment.   
+- **Role-Based Data Marts:** Tailored analytical views for each department to ensure relevant and secure access to insights.   
+- **Data Quality & Governance:** Built-in validation rules and conformed dimensions ensuring consistency across reports.  
+- **Single Source of Truth:** Enables accurate cross-departmental reporting and eliminates metric discrepancies.  
 
 ---
 
