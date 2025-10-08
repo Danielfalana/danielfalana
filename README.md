@@ -69,15 +69,13 @@ My focus is on building **data solutions that are both scalable and self-serve**
 - Built a **Power BI dashboard** showcasing efficiency metrics and trends  
 - Provided insights that identified process bottlenecks and performance improvement opportunities  
 
-### [🧱 Automated ETL Pipeline with SSIS & SQL Server](https://github.com/yourusername/etl-pipeline)
-- Designed an **automated ETL pipeline** using SSIS to process and load sales data  
-- Improved data refresh efficiency by **35%** and ensured data integrity across systems  
-- Integrated SQL Server and Power BI for seamless data visualization  
 
 ### [Centralized-Analytical-Data-Platform)](https://github.com/Danielfalana/Centralized-Analytical-System-and-Data-Warehouse-for-Enterprise-Reporting-Governance)
-- **Centralized Analytics Layer:** Integrates data from multiple domains (Sales, Operations, Finance, HR) into a unified reporting environment.   
+- **Centralized Analytics Layer:** Integrates data from multiple domains  into a unified reporting environment.   
 - **Role-Based Data Marts:** Tailored analytical views for each department to ensure relevant and secure access to insights.   
-- **Data Quality & Governance:** Built-in validation rules and conformed dimensions ensuring consistency across reports.  
+- **Data Quality & Governance:** Built-in validation rules and conformed dimensions ensuring consistency across reports.
+- Designed an **automated ETL pipeline** using SSIS to process and load sales data  
+- Improved data refresh efficiency by **35%** and ensured data integrity across systems  
 - **Single Source of Truth:** Enables accurate cross-departmental reporting and eliminates metric discrepancies.  
 
 ---
